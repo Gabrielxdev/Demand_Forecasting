@@ -1,0 +1,15 @@
+# Ambientes Virtuais
+.venv/
+venv/
+env/
+
+# Dados (nunca suba grandes planilhas no github)
+data/
+*.csv
+*.parquet
+*.db
+
+# Arquivos do sistema e cache
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
